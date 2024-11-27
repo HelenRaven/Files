@@ -1,0 +1,13 @@
+
+[ 2024-11-27 ] INFO -- : Directory created: ./Games/src
+[ 2024-11-27 ] INFO -- : Directory created: ./Games/res
+[ 2024-11-27 ] INFO -- : Directory created: ./Games/savegames
+[ 2024-11-27 ] INFO -- : Directory created: ./Games/temp
+[ 2024-11-27 ] INFO -- : Directory created: ./Games/src/main
+[ 2024-11-27 ] INFO -- : Directory created: ./Games/src/test
+[ 2024-11-27 ] INFO -- : Directory created: ./Games/res/drawables
+[ 2024-11-27 ] INFO -- : Directory created: ./Games/res/vectors
+[ 2024-11-27 ] INFO -- : Directory created: ./Games/res/icons
+[ 2024-11-27 ] INFO -- : File created: ./Games/temp/temp.txt
+[ 2024-11-27 ] INFO -- : File created: ./Games/src/main/Main.java
+[ 2024-11-27 ] INFO -- : File created: ./Games/src/main/Utils.java
